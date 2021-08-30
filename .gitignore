@@ -20,3 +20,9 @@
 /go
 /server
 /client
+
+# python
+__pycache__
+
+# misc
+*.swp
